@@ -1,10 +1,12 @@
 {
     "allowed_tiers": [
         "28322167",
-        "28322135"
+        "28322135",
+        "28322174"
     ],
     "_comments": {
         "28322167": "Parrot Guardians",
-        "28322135": "Parrot Elders"
+        "28322135": "Parrot Elders",
+        "28322174": "Parrot Crew"
     }
 }
