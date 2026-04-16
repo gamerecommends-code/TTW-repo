@@ -1,0 +1,25 @@
+{
+    "version_access": {
+        "0.2": {
+            "pg": ["28322167"],
+            "hs": ["27164484"]
+        }
+    },
+    "_comments": {
+        "instructions": "To add/remove access for any version, edit the version_access block. Add a new version key (e.g. '0.3') with pg and hs tier arrays. No game code changes needed.",
+        "pg_tiers": {
+            "28322167": "Parrot Guardians",
+            "28322135": "Parrot Elders",
+            "28322174": "Parrot Crew",
+            "28322183": "Parrot Pals"
+        },
+        "hs_tiers": {
+            "27164484": "Dare Immortal",
+            "27164453": "Dare Legend",
+            "27164419": "Dare Master",
+            "27164394": "Dare Challenger",
+            "27098000": "Dare Explorer",
+            "27615559": "Dare Starters"
+        }
+    }
+}
